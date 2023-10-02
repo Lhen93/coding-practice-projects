@@ -1,0 +1,84 @@
+*{
+  margin-left: 10px;
+  
+}
+
+body{
+  background-color: white;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#logo{
+  display: flex;
+font-size: 18px;
+font-weight: bold;
+min-width: 100px;
+
+position:fixed;
+margin-left: 0;
+}
+
+
+
+#nav-list{
+list-style: none;
+display: flex;
+font-size: 18px;
+font-weight: bold;
+margin-right: 25%;
+width: 100%;
+
+}
+ 
+li{
+  margin-left: 10%;
+}
+
+
+#nav-bar{
+  display: flex;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+#header{
+  background-color: white;
+  position:fixed;
+  top: 0;
+  display: flex;
+  width: 100%;
+  margin-left: -30px;
+}
+
+#video{
+  padding: 20px;
+  width: 550px;
+  height: 450px;
+
+}
+
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 10%;
+  font-size: 16px;
+
+}
+
+#main{
+  margin-top: 20%;
+  margin-left: 0;
+}
+
+.fdescription{
+  margin-left: -10px;
+  font-size: 15px;
+}
+
+
+#features,#specs,#shop,.email{
+  font-size: 25px;
+  margin-bottom: 4px;
+}
+
